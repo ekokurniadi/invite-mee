@@ -23,7 +23,7 @@
                     <img src="assets/images/theme-1.PNG" alt="" />
                   </div>
                   <div class="text-container">
-                    <h6>Preview</h6>
+                    <h6>Rp. 35.000</h6>
                   </div>
                 </div>
               </div></a
@@ -51,7 +51,7 @@
                     <img src="assets/images/theme-2.PNG" alt="" />
                   </div>
                   <div class="text-container">
-                    <h6>Preview</h6>
+                    <h6>Rp. 35.000</h6>
                   </div>
                 </div>
               </div></a
@@ -78,7 +78,7 @@
                     <img src="assets/images/theme-3.PNG" alt="" />
                   </div>
                   <div class="text-container">
-                    <h6>Preview</h6>
+                    <h6>Rp. 35.000</h6>
                   </div>
                 </div>
               </div></a
