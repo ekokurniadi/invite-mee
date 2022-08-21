@@ -13,7 +13,9 @@
       >
         <section class="card-component">
           <div id="cards_landscape_wrap-2">
-            <a href="/"
+            <a
+              href="https://nikahanku.herokuapp.com/b2891?id=5Fdxn-Mdhw1-GlfHm-osspp-PfEiz-5"
+              target="_blank"
               ><div class="card-flyer">
                 <div class="text-box">
                   <div class="image-box">
@@ -30,6 +32,7 @@
         </section>
       </div>
       <!-- akhir theme 2 -->
+
       <!-- theme 2 -->
       <div
         class="col-md-4 aos-init aos-animate"
