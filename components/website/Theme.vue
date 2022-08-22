@@ -141,6 +141,33 @@
         </section>
       </div>
       <!-- akhir theme 5 -->
+      <!-- theme 6 -->
+      <div
+        class="col-md-4 aos-init aos-animate"
+        data-aos="fade-up"
+        data-aos-duration="1000"
+      >
+        <section class="card-component">
+          <div id="cards_landscape_wrap-2">
+            <a
+              href="https://nikahanku.herokuapp.com/cab7a?id=5Fdxn-Mdhw1-GlfHm-osspp-PfEiz-5"
+              target="_blank"
+              ><div class="card-flyer">
+                <div class="text-box">
+                  <div class="image-box">
+                    <div class="tag">Tema 6</div>
+                    <img src="assets/images/theme-6.PNG" alt="" />
+                  </div>
+                  <div class="text-container">
+                    <h6>Rp. 50.000</h6>
+                  </div>
+                </div>
+              </div></a
+            >
+          </div>
+        </section>
+      </div>
+      <!-- akhir theme 6 -->
     </div>
   </div>
 </template>
